@@ -18,3 +18,6 @@ If the player’s health becomes zero, the game will be over.
 - Add the ability for the player to press multiple keys at a time to move, shoot and place mines. 
 - Add difficulty levels for the player to choose. 
 - Make the GUI more user friendly.
+
+## Installation 
+TankerZ can be built and executed without needing to install external libraries. It relies only on core Qt APIs and the Qt Multimedia API. Therefore, the application can be run by extracting the source directory and loading the project (.pro) file before running the build/execute in Qt creator. 

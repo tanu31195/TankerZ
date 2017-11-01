@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>resources/bullet.mp3</file>
+        <file>resources/explosion.mp3</file>
+        <file>resources/bgsound1.mp3</file>
+        <file>resources/mexplosion.mp3</file>
+        <file>resources/minesound.mp3</file>
+        <file>resources/healthup.mp3</file>
+        <file>resources/powerdown.mp3</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/bullet.png</file>
+        <file>resources/enemy.png</file>
+        <file>resources/player.png</file>
+        <file>resources/mine.png</file>
+        <file>resources/hplus.png</file>
+        <file>resources/bg1.PNG</file>
+        <file>resources/bg2.jpg</file>
+        <file>resources/bg3.jpg</file>
+        <file>resources/bg.jpg</file>
+    </qresource>
+</RCC>
